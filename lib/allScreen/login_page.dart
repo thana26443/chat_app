@@ -30,7 +30,7 @@ class _LoginPageState extends State<LoginPage> {
         break;
     }
     return Scaffold(
-      backgroundColor: Colors.blue,
+      backgroundColor: Colors.black87,
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
